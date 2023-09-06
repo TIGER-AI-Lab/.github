@@ -1,1 +1,1 @@
-# .github
+Welcome to the Text and Image GEnerative Research (TIGER) Lab! We are part of the Waterloo NLP Group at the University of Waterloo. TIGER focuses on building text and image generation models to enable more controllable and faithful generation of both modalities. 

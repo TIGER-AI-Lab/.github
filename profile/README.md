@@ -2,8 +2,6 @@
   
 This is the official website for TIGER AI Lab (https://wenhuchen.github.io/lab). 
 
-# Text and Image GEnerative Research (TIGER) Lab   
-  
 ## About Us  
 Welcome to the Text and Image GEnerative Research (TIGER) Lab at the University of Waterloo. Our lab is dedicated to enabling more controllable and faithful generation of both text and images.   
   

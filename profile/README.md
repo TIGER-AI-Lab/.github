@@ -18,7 +18,7 @@ Our research focuses on a variety of topics within the realm of GenAI, including
 We are a dynamic team of dedicated researchers and faculty members. Our team is constantly growing and we welcome individuals who share our passion for advancing GenAI.  
   
 ## Join Us  
-Interested in joining our team or collaborating with us? Feel free to [contact us](wenhuchen@uwaterloo.ca).  
+Interested in joining our team or collaborating with us? Feel free to [contact us](mailto:wenhuchen@uwaterloo.ca).  
   
 ## Publications  
-Our work has been published in several esteemed journals and conferences. You can find a list of our publications [here]([link-to-publications](https://wenhuchen.github.io/publication.html)).  
+Our work has been published in several esteemed journals and conferences. You can find a list of our publications [here](https://wenhuchen.github.io/publication.html)).  

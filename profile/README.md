@@ -22,5 +22,5 @@ We are a dynamic team of dedicated researchers and faculty members. Our team is 
 ## Publications  
 Our work has been published in several esteemed journals and conferences. You can find a list of our publications [here](https://wenhuchen.github.io/publication.html)).  
 
-
-
+## Huggingface
+Our dataset, checkpoints and demo are all being released under [TIGER-Lab](https://huggingface.co/TIGER-Lab).

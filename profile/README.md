@@ -1,6 +1,6 @@
 # Text and Image GEnerative Research (TIGER) Lab
 
-In Chinese, my lab is named "虎头帮".
+In Chinese, our lab is named "虎头帮".
 
 This is the official website for TIGER AI Lab (https://wenhuchen.github.io/lab). 
 
